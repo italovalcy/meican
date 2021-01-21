@@ -69,10 +69,10 @@ $this->params['header'] = ["About", ['Home', 'About']];
             <p>
             <table>
             <tr>
-                <td>Leonardo Lauryel Batista dos Santos (llbsantos at inf.ufrgs.br) <a target="_blank" href="https://github.com/leonardolauryel"><i class="fa fa-github"></i></a></td>
+                <td>Eduardo Raupp Peretto (eduardo.peretto at ufrgs.br) <a target="_blank" href="https://github.com/eduardoperetto"><i class="fa fa-github"></i></a></td>
             </tr>
             <tr>
-                <td>Maurício Quatrin Guerreiro (mqguerreiro at inf.ufrgs.br) <a target="_blank" href="https://github.com/mqgmaster"><i class="fa fa-github"></i></a></td>
+                <td>Leonardo Lauryel Batista dos Santos (llbsantos at inf.ufrgs.br) <a target="_blank" href="https://github.com/leonardolauryel"><i class="fa fa-github"></i></a></td>
             </tr>
             <tr>
                 <td>Rafael Hengen Ribeiro (rhribeiro at inf.ufrgs.br) <a target="_blank" href="https://github.com/rafaelhribeiro"><i class="fa fa-github"></i></a></td>
