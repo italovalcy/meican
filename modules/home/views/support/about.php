@@ -104,6 +104,9 @@ $this->params['header'] = ["About", ['Home', 'About']];
             <p>
             <table>
             <tr>
+              <td>Maurício Quatrin Guerreiro (mqguerreiro at inf.ufrgs.br) <a target="_blank" href="https://github.com/mqgmaster"><i class="fa fa-github"></i></a></td>
+            </tr>
+            <tr>
               <td>Juliano Araujo Wickboldt <a target="_blank" href="https://github.com/julianowick"><i class="fa fa-github"></i></a></td>
            </tr>
 
