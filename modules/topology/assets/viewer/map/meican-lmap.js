@@ -410,6 +410,13 @@ LMap.prototype.addNode = function(port, color, mode) {
             className: 'marker-icon-svg',
         }));
     }
+    if(flagPortLocation == false){
+        console.log(port.network.domain.grouped_nodes);
+        if(port.network.domain.grouped_nodes == false){
+            console.log("hello world");
+            this.expandLocations(node.options.id);
+        }
+    }
     
 }
 
